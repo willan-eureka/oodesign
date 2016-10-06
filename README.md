@@ -7,8 +7,8 @@ For each new entity a new csv file is created for example: We create 2 entities 
 we will have 2 csv files student.csv and school.csv.
 
 UML
-https://drive.google.com/file/d/0B_hGB-SOXwDgb2I0ZVdxajlpSFE/view
-
+---
+![alt tag](https://drive.google.com/file/d/0B_hGB-SOXwDgb2I0ZVdxajlpSFE/view)
 
 Classes
 -------
